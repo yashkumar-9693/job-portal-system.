@@ -1,0 +1,1 @@
+A full-stack web application built with MERN (MongoDB, Express, React, Node.js) that connects job seekers with employers. It allows users to register, login, browse jobs, apply, and enables employers to post and manage job listings through a user-friendly interface.
